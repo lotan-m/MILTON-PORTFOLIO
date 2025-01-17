@@ -1,0 +1,9 @@
+@use "./utilities/base";
+@use "./pages/home/nav";
+@use "./pages/home/about";
+
+.nav-center{
+    display: flex;
+    justify-content: none;
+    list-style: none;
+}
